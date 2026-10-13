@@ -1,31 +1,38 @@
 # Hello, I'm Sanjana 👋
 
-## About Me
-I am a Computer Science graduate student on an exciting journey of exploration. My primary focus is on learning Java with a deep dive into Data Structures and Algorithms (DSA).  My toolkit also includes basic proficiency in Python,SQL, HTML, CSS, and JavaScript.
+🎓 Computer Science Engineering Graduate | Aspiring Software Developer
 
-## 🚀 My Interests
-- 💻 Exploring the diverse realms of computer science and software development.
-- ☕ Learning and mastering Java programming language.
-- 🧠 Delving into Data Structures and Algorithms for robust problem-solving.
+## 👩‍💻 About Me
 
+I'm a Computer Science Engineering graduate passionate about software development and building practical applications. I enjoy learning new technologies, solving problems, and turning ideas into functional projects.
 
-## 🌐 Technologies & Tools
-- **Languages:** Java, Python, familiar with--HTML, CSS, JavaScript, C++
-- **Databases:** MySQL 
-- **Tools:** Git, GitHUb, VS Code
+- ☕ Strengthening my Core Java and object-oriented programming skills.
+- 🧠 Practising Data Structures and Algorithms (DSA) to improve problem-solving.
+- 💻 Building projects using web technologies, databases, and modern development tools.
+- 🌱 Continuously learning and exploring opportunities to grow as a software developer.
 
-## 🌱 Currently Learning & Doing
-- Mastering Java and implementing DSA concepts.
-- Expanding web development skills with HTML, CSS, and JavaScript.
+## 🚀 Technologies & Tools
 
-## 🤝 Let's Collaborate
-Open to collaborations, discussions, and learning from the community. Feel free to reach out for project collaborations or just to connect!
+- **Programming Languages:** Java, JavaScript, Python, SQL
+- **Web Technologies:** HTML, CSS, React, Node.js
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code, Docker
 
+## 📌 Projects
 
-Thanks for stopping by my GitHub profile! 😊
+- 📚 **Bibliotheca — Online Library Management System:** A full-stack MERN application with book management, borrowing workflows, role-based access, and admin analytics.
+- 💰 **Budget Tracker:** A web application for tracking income and expenses with dashboard analytics.
+- 🎓 **Campus Buddy:** An AI-powered college information assistant designed to help students and visitors access college information.
 
+## 🌱 Currently Learning
 
-<!---
-sanjleviosa/sanjleviosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Core Java, OOP concepts, and exception handling.
+- Data Structures and Algorithms.
+- JavaScript fundamentals and React.
+- Problem-solving and coding interview preparation.
+
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, collaborating on projects, and exploring opportunities to grow in the software development field.
+
+Thanks for visiting my GitHub profile! 😊
